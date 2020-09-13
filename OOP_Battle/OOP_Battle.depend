@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600036627 source:c:\users\john curtin\documents\c++ development\object oriented programming\oop_battle\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<numeric>
+	<math.h>
+	<string>
+	<time.h>
+
